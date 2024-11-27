@@ -46,7 +46,7 @@ There are more details in my [paper](https:xxx):
    You can check the training procedure in `procedure` folder.  
    Model is saved every 500 epochs in `model` folder.
    
-   <img src="docs\2.png" width="500px"/>
+   <img src="docs\2.png" width="900px"/>
    
 
 
