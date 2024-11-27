@@ -1,4 +1,4 @@
-## PIX(n1_channel) to PIX(n2_channel)
+## PIX n1_channel to PIX n2_channel
 
 There are more details in my [paper](https:xxx):
 
