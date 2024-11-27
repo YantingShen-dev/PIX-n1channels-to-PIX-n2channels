@@ -1,4 +1,4 @@
-## PIX n1_channel to PIX n2_channel
+## PIX n1_channels to PIX n2_channels
 
 There are more details in my [paper](https:xxx):
 
