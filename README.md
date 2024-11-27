@@ -45,10 +45,12 @@ There are more details in my [paper](https:xxx):
    
    You can check the training procedure in `procedure` folder.  
    Model is saved every 500 epochs in `model` folder.
-   <img src="docs\2.png" width="500px"/> 
+   
+   <img src="docs\2.png" width="500px"/>
+   
 
 
-3) **PredictImage:** Replace _'InputData_path'_ and _'TargetData_path'_ in `predict.py` with the image and target to be predicted for MAE and MSE.(predicted image saved in _'output_folder'_)
+4) **PredictImage:** Replace _'InputData_path'_ and _'TargetData_path'_ in `predict.py` with the image and target to be predicted for MAE and MSE.(predicted image saved in _'output_folder'_)
 
    ```shell
     InputData_path = r'dataset/Input/Concate'
