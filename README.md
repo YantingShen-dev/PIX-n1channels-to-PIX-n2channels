@@ -1,6 +1,6 @@
 ## PIX n1_channels to PIX n2_channels
 
-There are more details in my [paper](https:xxx):
+There are more details in my [paper](https://www.researchgate.net/publication/389600893_Forecasting_Future_Construction_Demands_A_Deep_Learning_approach_for_material_stock_circularity_analysis_of_Singapore_residential_buildings?_sg%5B0%5D=zGX9SXtWsBsjyPOhMShgsWKou0QNkgp2HKH2qTk97PebpytltBaSI0Lz5H8aH4eQZsmlUbQPABcEIzEsEqEo4D1vKPTpTdluRHzieO15.9IgtHa3Or6UC7ygxFbmDKyMidrDHvWEz3gIbrFVbvSmkG4Q4nN4FjCPUalIi9bj9e_jdA9XTJyAT2oOJbtva8A&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19):
 
 > **- Reference -**  
 > pix2pix: https://github.com/phillipi/pix2pix  
